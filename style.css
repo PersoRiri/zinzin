@@ -1,0 +1,33 @@
+body{
+  background-color: black;
+}
+
+#title{
+  text-align: center;
+  width: 80%;
+  margin: 30px auto;
+  color: rgb(99, 246, 14);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.green-div{
+  width: 200px;
+  height: 200px;
+  margin: 30px auto;
+  background: url("./macr.png") no-repeat;
+  background-size: contain;
+}
+
+.green-div:hover{
+  cursor: pointer;
+}
+.nulos{
+  background: none;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+.para{
+  color: red;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
